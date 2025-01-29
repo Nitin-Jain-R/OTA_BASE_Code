@@ -1,3 +1,22 @@
+# Nitin : added file header
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Filename: EXIM_SERVER.py
+Author:
+Date: 2025-01-29
+Version: 1.0.1
+Description:
+
+License: Eximietas Design India Pvt. Ltd.
+Copyright (c) 2025 Eximietas Design India Pvt. Ltd.
+Dependencies: os, sys
+"""
+
+
+
+
 import tkinter as tk                             # Importing the core Tkinter library for GUI creation
 from tkinter import ttk, messagebox              # Importing specific Tkinter modules for enhanced widgets and message boxes
 from tkinter.font import Font                    # Importing the Font module for customizing text fonts
